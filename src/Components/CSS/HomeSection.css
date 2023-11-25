@@ -1,0 +1,14 @@
+.NavActive{
+    background-color: #D81B60;
+}
+
+.NavLinksActive ul .active {
+    border-bottom:2px solid #FF444A;
+}
+
+
+#root{
+    min-height:100vh;
+   background:rgb(7, 7, 7);
+   padding-bottom:17px;
+}
